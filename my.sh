@@ -9,3 +9,5 @@ done
 # add another comment!
 
 echo "Hello World!"
+
+echo "Hello World from GIT"
